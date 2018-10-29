@@ -115,7 +115,7 @@ UDesktopTexture::~UDesktopTexture()
 				//delete[] v;
 		}
 	);
-	return texture;
+	return texture; 
 }
  
  
